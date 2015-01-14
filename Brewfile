@@ -4,6 +4,7 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install bettertouchtool
 cask install dropbox
 cask install google-japanese-ime
 cask install intellij-idea-ce13
