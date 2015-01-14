@@ -5,7 +5,6 @@
 tap caskroom/cask
 install brew-cask
 cask install dropbox
-cask install google-chrome
 cask install google-japanese-ime
 cask install iterm2
 cask install limechat
