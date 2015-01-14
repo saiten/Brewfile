@@ -8,6 +8,7 @@ cask install dropbox
 cask install google-chrome
 cask install google-japanese-ime
 cask install iterm2
+cask install limechat
 cask install sourcetree
 cask install totalfinder
 
