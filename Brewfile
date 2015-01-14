@@ -6,10 +6,15 @@ tap caskroom/cask
 install brew-cask
 cask install dropbox
 cask install google-japanese-ime
+cask install intellij-idea-ce
 cask install iterm2
 cask install limechat
 cask install sourcetree
 cask install totalfinder
+
+## caskroom/versions
+tap caskroom/versions
+cask install java7
 
 ## rcmdnk/file
 tap rcmdnk/file
