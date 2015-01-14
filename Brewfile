@@ -6,7 +6,7 @@ tap caskroom/cask
 install brew-cask
 cask install dropbox
 cask install google-japanese-ime
-cask install intellij-idea-ce
+cask install intellij-idea-ce13
 cask install iterm2
 cask install limechat
 cask install sourcetree
