@@ -25,6 +25,7 @@ install brew-file
 install autoconf
 install automake
 install bash-completion
+install binutils
 install emacs --japanese --cocoa --with-gnutls
 install git
 install gmp
