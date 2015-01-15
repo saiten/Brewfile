@@ -51,11 +51,7 @@ appstore 1Password
 appstore Dash
 appstore Day One
 appstore EchofonLite
-appstore GarageBand
-appstore iMovie
 appstore iPhoto
 appstore Keynote
-appstore Numbers
-appstore Pages
 appstore Slack
 appstore Xcode
