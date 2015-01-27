@@ -12,6 +12,8 @@ cask install iterm2
 cask install limechat
 cask install sourcetree
 cask install totalfinder
+cask install wireshark
+cask install xquartz
 
 ## caskroom/versions
 tap caskroom/versions
@@ -40,6 +42,7 @@ install pkg-config
 install rbenv
 install reattach-to-user-namespace
 install ruby-build
+install source-highlight
 install the_silver_searcher
 install tig
 install tmux
