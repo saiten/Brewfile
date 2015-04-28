@@ -7,7 +7,6 @@ install brew-cask
 cask install bettertouchtool
 cask install dropbox
 cask install google-japanese-ime
-cask install intellij-idea-ce13
 cask install iterm2
 cask install limechat
 cask install sourcetree
@@ -17,6 +16,7 @@ cask install xquartz
 
 ## caskroom/versions
 tap caskroom/versions
+cask install intellij-idea-ce13
 cask install java7
 
 ## rcmdnk/file
@@ -28,7 +28,8 @@ install autoconf
 install automake
 install bash-completion
 install binutils
-install emacs --japanese --cocoa --with-gnutls
+install boost
+install emacs --with-gnutls --with-cocoa
 install git
 install gmp
 install gnutls
@@ -40,6 +41,7 @@ install openssl
 install pcre
 install pkg-config
 install rbenv
+install readline
 install reattach-to-user-namespace
 install ruby-build
 install source-highlight
@@ -53,8 +55,11 @@ install xz
 appstore 1Password
 appstore Dash
 appstore Day One
+appstore Display Menu
 appstore EchofonLite
-appstore iPhoto
+appstore GarageBand
+appstore iMovie
 appstore Keynote
-appstore Slack
+appstore Numbers
+appstore Pages
 appstore Xcode
